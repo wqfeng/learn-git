@@ -56,6 +56,8 @@ create a new branch and makes it the active branch
 * `git branch -d mybranch`
 delete the "mybranch" branch
 
+* `git diff`
+show exactly what changed
 
 
 
