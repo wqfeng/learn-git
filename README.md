@@ -9,6 +9,9 @@ configuration
 
 the most commonly used commands
 --------------------------------
+* `git status`
+show the working tree status
+
 * `git add README.md`
 add file contents to the index
 
