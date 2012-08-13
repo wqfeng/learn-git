@@ -62,4 +62,5 @@ delete the "mybranch" branch
 Reference
 ---------
 [1] https://help.github.com/articles/set-up-git#platform-linux 
+
 [2] http://git-scm.com/book
