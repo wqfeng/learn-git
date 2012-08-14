@@ -44,6 +44,9 @@ create a git repository
 * `git commit -m 'a comment'`
 record the changes to the repository.
 
+* `git commit -a -m 'a comment'`
+automatically stage every file tracked and commit.
+
 * `git branch mybranch`
 create a new branch called "mybranch"
 
@@ -59,6 +62,17 @@ delete the "mybranch" branch
 * `git diff`
 show exactly what changed
 
+* `git rm`
+remove it from staging area and commit, also remove from working directory.
+
+* `git rm -f`
+remove for modified files
+
+* `git rm --cached`
+keep the files in working directory.
+
+* `git mv`
+rename
 
 
 Reference
