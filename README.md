@@ -9,6 +9,9 @@ configuration
 
 work with remote repository(eg.github)
 ------------------------------------
+* `git remote -v`
+list the remote repo
+
 * `git remote add origin https://github.com/wqfeng/learn-git.git`
 creates a remote named "origin" pointing at your github repo
 
@@ -73,6 +76,31 @@ keep the files in working directory.
 
 * `git mv`
 rename
+
+* `git log`
+show the change history.
+
+* `git commit --amend`
+amend the last commit
+
+* `git reset HEAD README.md`
+unstage a staged file
+
+* `git checkout -- README.md`
+unmodify a modified file
+
+* `git tag`
+list available tags
+
+* `git tag -a v0.1 -m 'the initial version'`
+create an annotated tag
+
+* `git show v0.1`
+show the tag data
+
+* `git push origin v0.1`
+push tag to the remote server
+
 
 
 Reference
