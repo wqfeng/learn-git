@@ -110,9 +110,27 @@ show the tag data
 push tag to the remote server
 
 
+Tips
+---------------
+* `git add .`
+track all
+
+* `git commit -a -m 'a comment'`
+add and commit in one line
+
 
 Reference
 ---------
 [1] https://help.github.com/articles/set-up-git#platform-linux 
 
 [2] http://git-scm.com/book
+
+[3] http://git-tips.heroku.com/#1
+
+[4] http://www.sbf5.com/~cduan/technical/git/
+
+[5] http://rogerdudler.github.com/git-guide/
+
+[6] http://www-cs-students.stanford.edu/~blynn/gitmagic/
+
+[7] http://www.codeschool.com/courses/try-git
