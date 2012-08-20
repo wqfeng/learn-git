@@ -134,3 +134,5 @@ Reference
 [6] http://www-cs-students.stanford.edu/~blynn/gitmagic/
 
 [7] http://www.codeschool.com/courses/try-git
+
+[8] http://sandofsky.com/blog/git-workflow.html
