@@ -116,8 +116,7 @@ Tips
 track all
 
 * `git commit -a -m 'a comment'`
-add and commit in one line
-
+add and commit all modified files(*but not new ones*)
 
 Reference
 ---------
