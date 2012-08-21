@@ -8,6 +8,7 @@ configuration
 * `git config --global user.email "qunfengw@gmail.com"`
 
 * git aliases
+
     `git config --global alias.co checkout`
 
     `git config --global alias.br branch`
